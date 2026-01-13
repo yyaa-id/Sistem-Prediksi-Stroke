@@ -21,8 +21,6 @@
         </ul>
     </div>
 @endif
-
-<h6 class="fw-bold mb-4"><i class="fas fa-user-plus text-primary me-2"></i>Tambah Admin Baru</h6>
                     <h6 class="fw-bold mb-4"><i class="fas fa-user-plus text-primary me-2"></i>Tambah Admin Baru</h6>
                     <form action="{{ route('users.store') }}" method="POST">
                         @csrf
