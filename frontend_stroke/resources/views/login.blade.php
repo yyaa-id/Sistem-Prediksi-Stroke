@@ -156,11 +156,11 @@
                     </div>
                 </div>
 
-                <!-- <div class="captcha-area p-3 mb-4 text-center">
+                <div class="captcha-area p-3 mb-4 text-center">
                     <label class="form-label d-block mb-2">Verifikasi Manusia</label>
                     <div class="captcha-code mb-2">{{ $captcha }}</div>
                     <input type="text" name="captcha_input" class="form-control text-center text-uppercase fw-bold" placeholder="Ketik Kode" required>
-                </div> -->
+                </div>
                 
                 <button type="submit" class="btn-login w-100 shadow-sm">
                     MASUK KE DASHBOARD <i class="fas fa-chevron-right ms-2 small"></i>
